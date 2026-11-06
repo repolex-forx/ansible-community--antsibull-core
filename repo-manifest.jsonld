@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/antsibull-core/commit/3e98c82aeddc19ed79918617629faa45200a8624",
       "git:hexsha": "3e98c82aeddc19ed79918617629faa45200a8624",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-community/antsibull-core/commit/5ea40ab6db47d7141f5ac6e6ab17062dbfa59acf",
